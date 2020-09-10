@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I an engineer at [Intel](https://www.intel.com/) working on virtualization technologies. In the past I have worked on performance modelling, memory systems, coherence, consistency and on-chip and off-chip interconnects. I have a PhD in Informatics from the [School of Informatics](https://www.ed.ac.uk/informatics) at [The University of Edinburgh](https://www.ed.ac.uk/) where I worked on designing architectural support for systems with persistent memory. 
+I am an engineer at [Intel](https://www.intel.com/) working on virtualization technologies. In the past I have worked on performance modelling, memory systems, coherence, consistency and on-chip and off-chip interconnects. I have a PhD in Informatics from the [School of Informatics](https://www.ed.ac.uk/informatics) at [The University of Edinburgh](https://www.ed.ac.uk/) where I worked on designing architectural support for systems with persistent memory. 
 
