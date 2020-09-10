@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arpit Joshi"
   avatar           : "profile.png"
-  bio              : "Engineer at Intel working on virtualization technologies."
+  bio              : "Engineer at Intel"
   location         : "Oregon"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/arpitj/"
+  linkedin         : "arpitj"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
